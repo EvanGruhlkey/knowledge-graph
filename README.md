@@ -1,4 +1,4 @@
-# Adaptive Personal Knowledge Graph MVP
+# Adaptive Personal Knowledge Graph
 
 An intelligent system that builds semantic knowledge graphs from your personal data (markdown notes and saved links) and adapts based on your interactions.
 
